@@ -15,10 +15,6 @@ The course channel is available [through this link](https://study.cs.helsinki.fi
 
 The participants in the channel are fellow students and volunteer course assistants. The channel's activity is based on voluntary assistance. Please also help other students on the channel when you can.
 
-There's also an off-topic channel for conversation that isn't directly connected to the course: [https://t.me/java\_programming\_mooc\_ot](https://t.me/java_programming_mooc_ot)
-
-We recommend all users in the course Telegram channel to join the Discord.
-
 ## Email
 
 You can reach course staff by email using address ohjelmoinnin-mooc@helsinki.fi. Feel free to write in English or in Finnish.
